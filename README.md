@@ -52,7 +52,7 @@ echo "MISTRAL_API_KEY=votre_cle_mistral_ici" > .env.local
 # 4. Lancement de l'environnement de développement
 npm run dev
 
-Une fois le serveur démarré, l'application est accessible sur :
+## Une fois le serveur démarré, l'application est accessible sur :
 
 🚀 http://localhost:3000
 
