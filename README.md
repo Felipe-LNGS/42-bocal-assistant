@@ -46,7 +46,7 @@ cd 42-bocal-assistant
 npm install
 
 # 3. Configuration de la clé API
-# Créez le fichier .env.local et ajoutez votre clé Mistral
+### Créez le fichier .env.local et ajoutez votre clé Mistral
 echo "MISTRAL_API_KEY=votre_cle_mistral_ici" > .env.local
 
 # 4. Lancement de l'environnement de développement
